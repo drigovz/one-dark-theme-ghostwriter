@@ -1,5 +1,4 @@
 # One Dark theme for ghostwriter
-<hr />
 One Dark theme for GhostWriter markdown editor.
 
 
