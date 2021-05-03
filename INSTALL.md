@@ -6,9 +6,9 @@ Ghostwriter is a free and open-source cross-plataform app to write Markdown lang
 
 If you have the git on your machine, you can download theme and keep up to date by cloning the repository:
 
-    $ https://github.com/drigovz/one-dark-theme-ghostwriter.git
+    $ git clone https://github.com/drigovz/one-dark-theme-ghostwriter.git
 
-After download files of Github, you will need to copy *one-dark* folder to config directory of ghostwriter  themes located on:
+After download files of Github, you will need to copy *one-dark* folder to config directory of ghostwriter themes located on:
 
 
 - Windows: `C:\Users\<your_user_name_here>\AppData\Roaming\ghostwriter\themes\`
