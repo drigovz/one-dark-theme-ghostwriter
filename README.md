@@ -1,5 +1,5 @@
 # One Dark theme for ghostwriter
-One Dark theme for GhostWriter markdown editor.
+One Dark theme for ghostwriter markdown editor.
 
 
 ### What is ghostwriter ?
