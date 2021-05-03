@@ -21,4 +21,4 @@ After download files of Github, you will need to copy *one-dark* folder to confi
 
 Open ghostwriter and go to `Settings >> Themes`, select `one-dark` option.
 
-![ghostwriter theme options](https://raw.githubusercontent.com/.png)
+![ghostwriter theme options](https://raw.githubusercontent.com/drigovz/one-dark-theme-ghostwriter/main/content/image2.png)
