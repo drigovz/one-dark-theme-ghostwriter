@@ -1,10 +1,10 @@
 {
   "dark": {
-    "accent": "#009bc8",
+    "accent": "#e5c07b",
     "background": "#282a36",
     "block": "#56b6c2",
     "cursor": "#98c379",
-    "emphasis": "#98c379",
+    "emphasis": "#e5c07b",
     "error": "#e06c75",
     "foreground": "#abb2bf",
     "heading": "#C678DD",
@@ -26,3 +26,4 @@
     "selection": "#C678DD"
   }
 }
+
