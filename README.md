@@ -9,7 +9,7 @@ Ghostwriter is a free and open-source cross-plataform app to write Markdown lang
 #### Install theme
 For install this theme on your ghostwriter, see the [instructions here](https://github.com/drigovz/one-dark-theme-ghostwriter/blob/main/INSTALL.md).
 
-![one dark theme for ghostwriter](https://raw.githubusercontent.com/drigovz/one-dark-theme-ghostwriter/main/content/image.png)
+![one dark theme for ghostwriter](https://raw.githubusercontent.com/drigovz/one-dark-theme-ghostwriter/main/content/image3.png)
 
 
 ### Colors reference 
