@@ -1,7 +1,7 @@
 {
   "dark": {
     "accent": "#e5c07b",
-    "background": "#282a36",
+    "background": "#282C34",
     "block": "#56b6c2",
     "cursor": "#98c379",
     "emphasis": "#e5c07b",
@@ -26,4 +26,3 @@
     "selection": "#C678DD"
   }
 }
-
